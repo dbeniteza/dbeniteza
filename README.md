@@ -10,12 +10,18 @@
 
 ---
 
-### :man_technologist: About Me :
-- :telescope: I’m working as a Systems Architect and contributing to automate infrastructure provisioning on products like Oracle WebLogic, Oracle Database, Oracle iPlanet Web Server, Oracle JDK...
+👋 Hi! I'm Daniel and I work as a Systems Architect | DevOps contributing to automate infrastructure provisioning and processes.
 
-- :seedling: Currently learning DevOps technologies, such as Ansible, Python, Docker, Kubernetes, OpenShift, Prometheus, Grafana and more!
+👨‍💻 I have several years of experience working as System Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle iPlanet Web Server, Oracle JDK...
 
-- :zap: In my free time, I play padel :tennis: and basketball :basketball:
+📚 I'm passionate about DevOps technologies and I consider it has a great potential in current IT industry because it can help companies to take their infrastructure to another level.
+As part of my daily work I learn technologies/tools such as Ansible, Python, Docker, Kubernetes, OpenShift, Prometheus, Grafana and more!
+
+📱@devops.king - Personal project to share DevOps knowledge on Instagram
+
+⚡ In my free time I play padel 🥎 and basketball 🏀
+
+📥 If you want to know more about me, don't hesitate to contact via LinkedIn, mail or phone.
 
 - :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-danielbenitezaguila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenitezaguila)
 
