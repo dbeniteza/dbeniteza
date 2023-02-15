@@ -21,9 +21,7 @@ As part of my daily work I learn technologies/tools such as Ansible, Python, Doc
 
 ⚡ In my free time I play padel 🥎 and basketball 🏀
 
-📥 If you want to know more about me, don't hesitate to contact via LinkedIn, mail or phone.
-
-- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-danielbenitezaguila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenitezaguila)
+:mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-danielbenitezaguila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenitezaguila)
 
 ---
 
