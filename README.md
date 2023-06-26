@@ -17,8 +17,6 @@
 📚 I'm passionate about DevOps technologies and I consider it has a great potential in current IT industry because it can help companies to take their infrastructure to another level.
 As part of my daily work I learn technologies/tools such as Ansible, Python, Docker, Kubernetes, OpenShift, Prometheus, Grafana and more!
 
-📱@devops.king - Personal project to share DevOps knowledge on Instagram
-
 ⚡ In my free time I play padel 🥎 and basketball 🏀
 
 :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/-danielbenitezaguila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenitezaguila)
