@@ -10,12 +10,11 @@
 
 ---
 
-👋 Hi! I'm Daniel and I work as a Systems Architect | DevOps contributing to automate infrastructure provisioning and processes.
+👋 Hi! I'm Daniel and I work as a Middleware Solutions Architect | DevOps contributing to automate infrastructure provisioning and processes.
 
-👨‍💻 I have several years of experience working as System Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle iPlanet Web Server, Oracle JDK...
+👨‍💻 I have several years of experience working as Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle iPlanet Web Server, Oracle JDK...
 
-📚 I'm passionate about DevOps technologies and I consider it has a great potential in current IT industry because it can help companies to take their infrastructure to another level.
-As part of my daily work I learn technologies/tools such as Ansible, Python, Docker, Kubernetes, OpenShift, Prometheus, Grafana and more!
+📚 I'm passionate about Cloud and DevOps technologies and I consider it has a great potential in current IT industry because it can help companies to take their infrastructure to the next level.
 
 ⚡ In my free time I play padel 🥎 and basketball 🏀
 
@@ -29,9 +28,6 @@ As part of my daily work I learn technologies/tools such as Ansible, Python, Doc
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg"  title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"  title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg"  title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg"  title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg"  title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -44,17 +40,4 @@ As part of my daily work I learn technologies/tools such as Ansible, Python, Doc
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dbeniteza&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<!--
-**dbeniteza/dbeniteza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
