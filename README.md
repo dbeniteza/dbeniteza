@@ -12,7 +12,7 @@
 
 👋 Hi! I'm Daniel and I work as a Middleware Solutions Architect | DevOps contributing to automate infrastructure provisioning and processes.
 
-👨‍💻 I have several years of experience working as Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle iPlanet Web Server, Oracle JDK...
+👨‍💻 I have several years of experience working as Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle HTTP Server, Java JDK...
 
 📚 I'm passionate about Cloud and DevOps technologies and I consider it has a great potential in current IT industry because it can help companies to take their infrastructure to the next level.
 
