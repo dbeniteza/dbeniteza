@@ -10,7 +10,7 @@
 
 ---
 
-👋 Hi! I'm Daniel and I work as a Middleware Solutions Architect | DevOps contributing to automate infrastructure provisioning and processes.
+👋 Hi! I'm Daniel and I work as a Middleware Solutions Architect contributing to automate infrastructure provisioning and processes.
 
 👨‍💻 I have several years of experience working as Architect, specialized in middleware and Oracle products like Oracle WebLogic, Oracle Database, Oracle HTTP Server, Java JDK...
 
