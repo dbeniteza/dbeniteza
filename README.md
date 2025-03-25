@@ -14,15 +14,15 @@
 
 💡 My Story: I started my career specializing in Oracle Middleware, working with technologies such as WebLogic, Oracle Database, Oracle iPlanet Web Server, and Oracle JDK. Over time, my focus shifted towards deployment automation, continuous integration, and process optimization in complex enterprise environments.
 
-🚀 Impact & Achievements:
-✅ Direct the automation of Oracle Fusion Middleware (FMW) with Ansible, streamlining the installation, configuration, and patching processes for Oracle WebLogic, SOA Suite, and OSB.
-✅ Lead IBM WebSphere Application Server (WAS) automation with Ansible and AWX, including installation, configuration, certificates, and deployments, reducing implementation times by 70%.
-✅ Integrated Azure DevOps with AWX, eliminating manual deployment tasks and reducing human intervention to a simple approval step.
-✅ Mentor and train teams on Ansible automation, fostering continuous improvement and knowledge transfer.
-
+🚀 Impact & Achievements:<br>
+✅ Direct the automation of Oracle Fusion Middleware (FMW) with Ansible, streamlining the installation, configuration, and patching processes for Oracle WebLogic, SOA Suite, and OSB.<br>
+✅ Lead IBM WebSphere Application Server (WAS) automation with Ansible and AWX, including installation, configuration, certificates, and deployments, reducing implementation times by 70%.<br>
+✅ Integrated Azure DevOps with AWX, eliminating manual deployment tasks and reducing human intervention to a simple approval step.<br>
+✅ Mentor and train teams on Ansible automation, fostering continuous improvement and knowledge transfer.<br>
+<br>
 🏀🥎 In my free time, I enjoy playing padel and basketball, always looking for new challenges and improvements, both in sports and technology. I also love building web applications with Oracle APEX, bringing ideas to life through low-code development.
-
-📥 Let’s connect!
+<br>
+📥 Let’s connect!<br>
 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-danielbenitezaguila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenitezaguila)
 
 ---
